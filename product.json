@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Espresso",
+        "price":15.99,
+        "image":"Image/menu1.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"Americano",
+        "price":15.99,
+        "image":"Image/menu2.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"Latte",
+        "price":15.99,
+        "image":"Image/menu3.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Cappuccino",
+        "price":15.99,
+        "image":"Image/menu4.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"Macchiato",
+        "price":15.99,
+        "image":"Image/menu5.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"Mocha",
+        "price":15.99,
+        "image":"Image/menu6.jpg"
+
+    }
+]
